@@ -1,12 +1,11 @@
-# Git Basics Lab
+0 # Git Basics Lab
 
 ## Learning Goals
 
 - Understand how to complete labs on Learn
 - Apply what you've learned about Git version control
 - Initialize a new Git repository
-- Stage and commit new content
-- Create a remote repository on GitHub
+- Stage and commit new contentqq
 - Connect the newly create local repository with the remote on GitHub
 
 ## Introduction
@@ -27,7 +26,7 @@ This lesson will include all the steps necessary to submit your lab work to Lear
 
 ## Getting Started
 
-To start work on this lab, while on Learn.co, click the "Open IDE" button.
+To start work on this lab, while on Learn.co, cslick the "Open IDE" button.
 
 > If you are using the in-browser Learn IDE, the IDE will open on the page
 
